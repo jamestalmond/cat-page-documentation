@@ -127,21 +127,16 @@ Outputs a flexbox item module, you should only output the amount of flexbox item
 
 ### `cat-page-hero`
 
-Outputs a cat page hero container, this is the hero container that includes a background image.
+Outputs a cat page hero container, apply background-image via page specific stylesheets.
 
 ```json
 {
     "templateId": "cat-page-hero",
     "data": {
-        "backgroundImage": "img/background.JPG",
         "children": [{}]
     }
 }
 ```
-
-### Options
-
-`backgroundImage` Outputs an inline background-image
 
 ### `signpost`
 

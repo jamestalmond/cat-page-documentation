@@ -93,19 +93,19 @@ Outputs a flexbox container, this is the main container for your flexbox items.
 
 `col-2` Defines a 2 column row
 
-![Col 2](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/col-2.jpg?raw=true)
+![Col 2](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/col-2.jpg)
 
 `col-2-hero` Defines a 2 column row with the second flexbox item being a hero image that spans the height of 2 stacked cards
 
-![Col 2 hero](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/col-2-hero.jpg?raw=true)
+![Col 2 hero](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/col-2-hero.jpg)
 
 `col-3` Defines a 3 column row
 
-![Col 3](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/col-3.jpg?raw=true)
+![Col 3](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/col-3.jpg)
 
 `stacked` Stacks the child flexbox items on top of each other at tablet and above
 
-![Stacked](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/stacked.jpg?raw=true)
+![Stacked](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/stacked.jpg)
 
 ### `flex-item`
 
@@ -153,7 +153,7 @@ Outputs a signpost block, this is used to contain the category page signpost car
 
 ### `card`
 
-![Card](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/card.jpg?raw=true)
+![Card](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/card.jpg)
 
 Outputs a card block, cards are the main focus point of the cat page hero
 
@@ -205,7 +205,7 @@ All data is output per instance.
 
 ### `card-hero`
 
-![Card hero](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/card--hero.jpg?raw=true)
+![Card hero](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/card--hero.jpg)
 
 Outputs a card hero block, this is a card with a background image, behaves differently than a normal card. Only use in conjuction with a parent flexbox container with a `col-2-hero` modifier
 
@@ -244,7 +244,7 @@ All data is output per instance.
 
 ### `pods`
 
-![Pods](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/pods.jpg?raw=true)
+![Pods](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/pods.jpg)
 
 Outputs a merch pods block, includes a title
 
@@ -264,7 +264,7 @@ Outputs a merch pods block, includes a title
 
 ### `pod-item`
 
-![Pod item](https://github.com/jamestalmond/cat-page-documentation/raw/master/readme-assets/pod-item.jpg?raw=true)
+![Pod item](https://raw.githubusercontent.com/jamestalmond/cat-page-documentation/master/readme-assets/pod-item.jpg)
 
 Outputs a merch pod item
 

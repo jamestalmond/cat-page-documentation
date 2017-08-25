@@ -93,19 +93,19 @@ Outputs a flexbox container, this is the main container for your flexbox items.
 
 `col-2` Defines a 2 column row
 
-![Col 2](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/col-2.jpg)
+![Col 2](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/col-2.JPG)
 
 `col-2-hero` Defines a 2 column row with the second flexbox item being a hero image that spans the height of 2 stacked cards
 
-![Col 2 hero](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/col-2-hero.jpg)
+![Col 2 hero](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/col-2-hero.JPG)
 
 `col-3` Defines a 3 column row
 
-![Col 3](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/col-3.jpg)
+![Col 3](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/col-3.JPG)
 
 `stacked` Stacks the child flexbox items on top of each other at tablet and above
 
-![Stacked](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/stacked.jpg)
+![Stacked](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/stacked.JPG)
 
 ### `flex-item`
 
@@ -128,7 +128,7 @@ Outputs a cat page hero container, this is the hero container that includes a ba
 {
     "templateId": "cat-page-hero",
     "data": {
-        "backgroundImage": "img/background.jpg",
+        "backgroundImage": "img/background.JPG",
         "children": [{}]
     }
 }
@@ -153,7 +153,7 @@ Outputs a signpost block, this is used to contain the category page signpost car
 
 ### `card`
 
-![Card](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/card.jpg)
+![Card](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/card.JPG)
 
 Outputs a card block, cards are the main focus point of the cat page hero
 
@@ -162,9 +162,9 @@ Outputs a card block, cards are the main focus point of the cat page hero
     "templateId": "card",
     "data": {
         "modifier": "side-by-side",
-        "srcSrcSet": "img/laptops.jpg 1x, img/laptops_2x.jpg 2x",
+        "srcSrcSet": "img/laptops.JPG 1x, img/laptops_2x.JPG 2x",
         "srcMediaQuery": "min-width: 768px",
-        "imgSrcSet": "img/laptops.jpg 1x, img/accessories_2x.jpg 2x",
+        "imgSrcSet": "img/laptops.JPG 1x, img/accessories_2x.JPG 2x",
         "imgAltText": "Buy laptops now",
         "title": "Laptops",
         "text": "Complete your kit with our gaming laptops",
@@ -205,7 +205,7 @@ All data is output per instance.
 
 ### `card-hero`
 
-![Card hero](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/card--hero.jpg)
+![Card hero](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/card--hero.JPG)
 
 Outputs a card hero block, this is a card with a background image, behaves differently than a normal card. Only use in conjuction with a parent flexbox container with a `col-2-hero` modifier
 
@@ -219,7 +219,7 @@ Outputs a card hero block, this is a card with a background image, behaves diffe
         "ctaHref": "/help-and-advice/help-me-choose/pc-gaming-tech-explained/",
         "ctaModifier": "link-light",
         "ctaText": "Find out more",
-        "ampHeroCardImg": "img/amp-background.jpg 1x"
+        "ampHeroCardImg": "img/amp-background.JPG 1x"
     }
 }
 ```
@@ -244,7 +244,7 @@ All data is output per instance.
 
 ### `pods`
 
-![Pods](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/pods.jpg)
+![Pods](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/pods.JPG)
 
 Outputs a merch pods block, includes a title
 
@@ -264,7 +264,7 @@ Outputs a merch pods block, includes a title
 
 ### `pod-item`
 
-![Pod item](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/pod-item.jpg)
+![Pod item](https://raw.github.com/jamestalmond/cat-page-documentation/master/readme-assets/pod-item.JPG)
 
 Outputs a merch pod item
 
@@ -273,9 +273,9 @@ Outputs a merch pod item
     "templateId": "pod-item",
     "data": {
         "podHref": "//google.co.uk/",
-        "srcSrcSet": "/media.ao.com/uk/promotions/merch/backToSchool-100817_LP.jpg",
+        "srcSrcSet": "/media.ao.com/uk/promotions/merch/backToSchool-100817_LP.JPG",
         "srcMediaQuery": "min-width: 544px",
-        "imgSrcSet": "/media.ao.com/uk/promotions/merch/backToSchool-100817_LP.jpg",
+        "imgSrcSet": "/media.ao.com/uk/promotions/merch/backToSchool-100817_LP.JPG",
         "imgAltText": "Test"
     }
 }

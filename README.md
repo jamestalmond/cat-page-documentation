@@ -16,6 +16,11 @@
 		1. [`pods`](#-pods-)
 		1. [`pod-item`](#-pod-item-)
 
+# Dependences
+
+- [node.js](https://nodejs.org/en/) v6.10.3 or greater
+- [NPM](https://www.npmjs.com/) v5.3.0 or greater
+
 # Setup
 
 1. Navigate to directory with `package.json`
